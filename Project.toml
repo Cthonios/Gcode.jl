@@ -1,0 +1,4 @@
+name = "Gcode"
+uuid = "d11a74c9-9d00-4de9-b6dc-34d32beb07c2"
+authors = ["Craig M. Hamel <cmhamel32@gmail.com>"]
+version = "0.1.0"
