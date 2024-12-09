@@ -1,5 +1,7 @@
 module Gcode
 
-greet() = print("Hello World!")
+include("AbstractTypes.jl")
+include("Commands.jl")
+include("IO.jl")
 
 end # module Gcode
